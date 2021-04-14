@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Learning
-        * Research
+        * Researching 
       
       
 
