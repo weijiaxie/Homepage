@@ -45,7 +45,7 @@ social:
   link: https://github.com/weijiaxie
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/weijia-xie
+  link: https://www.linkedin.com/in/weijia-xie/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
