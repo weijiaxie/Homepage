@@ -35,7 +35,13 @@ experience:
         * Learning
         * Researching 
       
-      
+  - title: Bioinformatics Engineer
+    company: CapitalBio Corporation
+    company_url: ''
+    location: Guangdong
+    date_start: '2017-06'
+    date_end: '2018-03'
+    description: Next-generation sequencing (NGS) data analysis. Develop internal-facing software for high-throughput bioinformatics pipelines written in Python. 
 
 design:
   columns: '2'
