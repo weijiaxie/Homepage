@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a student now.
+I am now a master student of Software Engineering in East China Normal University.
 
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
